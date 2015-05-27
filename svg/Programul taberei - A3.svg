@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="148mm"
+   height="210mm"
+   viewBox="0 0 524.40944 744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Programul taberei - A3.svg">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4585"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4582"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4579"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4576"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4573"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4531"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4535"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4539"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4543"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4547"
+       is_visible="true" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter4485">
+      <feGaussianBlur
+         stdDeviation="3.49 3.22"
+         result="blur"
+         id="feGaussianBlur4487" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter4509">
+      <feGaussianBlur
+         stdDeviation="3.49 3.22"
+         result="blur"
+         id="feGaussianBlur4511" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter4468">
+      <feGaussianBlur
+         stdDeviation="11.24 9.1"
+         result="fbSourceGraphic"
+         id="feGaussianBlur4470" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4476" />
+      <feGaussianBlur
+         id="feGaussianBlur4479"
+         stdDeviation="5.36 5.09"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter4464">
+      <feGaussianBlur
+         stdDeviation="11.24 9.1"
+         result="fbSourceGraphic"
+         id="feGaussianBlur4466" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4472" />
+      <feGaussianBlur
+         id="feGaussianBlur4474"
+         stdDeviation="5.36 5.09"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4531-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4535-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4539-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4543-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4547-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4531-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4535-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4539-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4543-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4547-6"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="632.7344"
+     inkscape:cy="-2472.9108"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <rect
+       inkscape:export-ydpi="300.01428"
+       inkscape:export-xdpi="300.01428"
+       ry="0"
+       rx="0"
+       y="1188.3082"
+       x="0.056019437"
+       height="4063.5488"
+       width="2864.8635"
+       id="rect5025"
+       style="opacity:1;fill:#eaeec3;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/ghitabizau/Desktop/Demis/Casoaia/Programul taberei - A3 - 1-1.png" />
+    <text
+       inkscape:export-ydpi="300.01428"
+       inkscape:export-xdpi="300.01428"
+       sodipodi:linespacing="125%"
+       id="text5045"
+       y="2044.6678"
+       x="192.98535"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.15396118px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;letter-spacing:0px;word-spacing:0px;fill:#021e1e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ghitabizau/Desktop/Demis/Casoaia/Programul taberei - A3 - 1-1.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="2044.6678"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6105">Vineri - 29 Mai 2015</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="2121.1104"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6107">15:00 – 20:00 Timp alocat cazării</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="2197.5527"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6109">21:16 – 21:30 Deschiderea Sabatului</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="2273.9951"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6111">21:30 – 22:15 <tspan
+   style="font-weight:bold;fill:#021e1e;fill-opacity:1;"
+   id="tspan6175">Tema nr. 1</tspan> prezentată de fr. <tspan
+   style="font-weight:bold;fill:#021e1e;fill-opacity:1;"
+   id="tspan6183">Paulescu Cristian</tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="2350.4377"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6113">22:20 – 22:30 Imnul taberei</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="2426.8801"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6115">23:00 Stingerea</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="2503.3225"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6163" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="2579.7649"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6117">Sâmbătă - 30 Mai 2015</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="2656.2075"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6119">08:00 – 08:15 Altarul de dimineață</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="2732.6499"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6121">08:15 – 09:00 Micul dejun</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="2809.0923"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6123">09:00 – 09:30	Program de laudă prin cântări</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="2885.5349"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6125">09:30 – 10:45	Școala de Sabat</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="2961.9773"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6127">11:15 – 12:10	<tspan
+   style="font-weight:bold;fill:#021e1e;fill-opacity:1;"
+   id="tspan6179">Tema nr. 2</tspan> ținută de frații <tspan
+   style="font-weight:bold;fill:#021e1e;fill-opacity:1;"
+   id="tspan6185">Ulici Ghiță</tspan> și <tspan
+   style="font-weight:bold;fill:#021e1e;fill-opacity:1;"
+   id="tspan6187">Paulescu Cristian</tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="3038.4197"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6129">12:30 – 14:00 Masa de prânz</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="3114.8621"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6131">14:00 – 16:30	Pauza (timp pentru recreere sau drumeție în natură)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="3191.3047"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6133">16:30 – 17:30 Repetiții ale corului Banat ( în funcție de câte persoane suntem prezente)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="3267.7471"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6135">18:00 – 20:00 Programul de laudă (cântări, poezii, experiențe)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="3344.1895"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6137"><tspan
+   style="font-weight:bold;fill:#021e1e;fill-opacity:1;"
+   id="tspan6181">                         7 pași spre succes</tspan> - prezentată de fr. <tspan
+   style="font-weight:bold;fill:#021e1e;fill-opacity:1;"
+   id="tspan6193">Beni Muj</tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="3420.6321"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6139">20:00 – 21:00 Masa de seară</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="3497.0745"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6141">21:15 – 21:30 Închiderea Sabatului</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="3573.5168"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6143">21:30 – 23:30 Foc de tabără</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="3649.9592"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6145">00:00	Stingerea</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="3726.4019"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6165" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="3802.8442"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6147">Duminică - 31 Mai 2015</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="3879.2866"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6149">08:00 – 08:30	Altarul de dimineață</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="3955.7292"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6151">08:30 – 09:30 Micul dejun</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="4032.1716"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6153">09:30 – 10:00 Fotografii</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="4108.6143"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6155">10:00 – 10:45 <tspan
+   style="font-weight:bold;fill:#021e1e;fill-opacity:1;"
+   id="tspan6195">Tema nr. 3</tspan> prezentată de fr. <tspan
+   style="font-weight:bold;fill:#021e1e;fill-opacity:1;"
+   id="tspan6197">Ulici Ghiță</tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="4185.0566"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6157">11:00 – 12:00 Atelier de discuție și încheiere a taberei.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="4261.499"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6159">12:00 – 18:00 Activități recreative</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="4337.9414"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6199">        Activități <tspan
+   style="font-weight:bold;fill:#021e1e;fill-opacity:1;"
+   id="tspan6243">team building</tspan>, tenis de masă, <tspan
+   style="font-weight:bold;fill:#021e1e;fill-opacity:1;"
+   id="tspan6233">tenis</tspan> de câmp, teren de mini-fotbal, echitație,</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="4414.3838"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6219">        teren de <tspan
+   style="font-weight:bold;fill:#021e1e;fill-opacity:1;"
+   id="tspan6237">handbal</tspan>, stadion <tspan
+   style="font-weight:bold;fill:#021e1e;fill-opacity:1;"
+   id="tspan6235">fotbal</tspan>, <tspan
+   style="font-weight:bold;fill:#021e1e;fill-opacity:1;"
+   id="tspan6239">tiroliană</tspan>, <tspan
+   style="font-weight:bold;fill:#021e1e;fill-opacity:1;"
+   id="tspan6241">drumeții</tspan> pe traseele turistice (cu marcaje)</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="4490.8262"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6221">        din <tspan
+   style="font-weight:bold;fill:#021e1e;fill-opacity:1;"
+   id="tspan6231">munții Zarandului</tspan> precum și la obiectivele istorice din zonă</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#021e1e;fill-opacity:1;"
+         y="4567.2686"
+         x="192.98535"
+         sodipodi:role="line"
+         id="tspan6223">        – <tspan
+   style="font-weight:bold;fill:#021e1e;fill-opacity:1;"
+   id="tspan6227">cetățile medievale</tspan> Lipova, Șiria , Casa memorială <tspan
+   style="font-weight:bold;fill:#021e1e;fill-opacity:1;"
+   id="tspan6229">Ioan Slavici</tspan>, tabăra de sculptură.)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1101.0663"
+       y="2234.2407"
+       id="text6167"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6169"
+         x="1101.0663"
+         y="2234.2407" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1101.0663"
+       y="2244.3423"
+       id="text6171"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6173"
+         x="1101.0663"
+         y="2244.3423" /></text>
+    <rect
+       style="fill:#021e1e;fill-opacity:1"
+       id="rect4258"
+       width="214.75684"
+       height="223.34711"
+       x="-774.0791"
+       y="1541.2759" />
+    <rect
+       y="1806.2859"
+       x="-774.0791"
+       height="223.34711"
+       width="214.75684"
+       id="rect4260"
+       style="fill:#177e89;fill-opacity:1"
+       inkscape:transform-center-x="-10.308305"
+       inkscape:transform-center-y="-264.58045" />
+    <rect
+       inkscape:transform-center-y="-264.58042"
+       inkscape:transform-center-x="-10.308326"
+       style="fill:#598381;fill-opacity:1"
+       id="rect4262"
+       width="214.75684"
+       height="223.34711"
+       x="-774.0791"
+       y="2071.2959" />
+    <rect
+       y="2336.3059"
+       x="-774.0791"
+       height="223.34711"
+       width="214.75684"
+       id="rect4264"
+       style="fill:#8e936d;fill-opacity:1"
+       inkscape:transform-center-x="-10.308298"
+       inkscape:transform-center-y="-264.58037" />
+    <rect
+       inkscape:transform-center-y="-264.58032"
+       inkscape:transform-center-x="-10.308331"
+       style="fill:#a2ad59;fill-opacity:1"
+       id="rect4266"
+       width="214.75684"
+       height="223.34711"
+       x="-774.0791"
+       y="2601.3159" />
+    <path
+       style="opacity:0.5;fill:#598381;fill-opacity:1"
+       d="m 1240.5024,4760.8068 26.2754,-27.4512 21.4648,20.543 19.6622,-20.543 21.4648,20.543 19.6621,-20.543 21.4649,20.543 19.6621,-20.543 21.4629,20.543 19.664,-20.543 21.4629,20.543 19.6641,-20.543 21.4629,20.543 19.664,-20.543 21.4629,20.543 19.6641,-20.543 21.4629,20.543 19.664,-20.543 28.6797,27.4512 -383.9707,0 z"
+       id="rect4270"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300.01428"
+       inkscape:export-ydpi="300.01428"
+       inkscape:export-filename="/home/ghitabizau/Desktop/Demis/Casoaia/Programul taberei - A3 - 1-1.png" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1"
+       id="rect4325"
+       width="2017.1429"
+       height="25.714287"
+       x="423.91632"
+       y="1715.2194"
+       inkscape:export-xdpi="300.01428"
+       inkscape:export-ydpi="300.01428"
+       inkscape:export-filename="/home/ghitabizau/Desktop/Demis/Casoaia/Programul taberei - A3 - 1-1.png" />
+    <text
+       inkscape:export-ydpi="300.01428"
+       inkscape:export-xdpi="300.01428"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:275.83642578px;line-height:125%;font-family:'Noticia Text';-inkscape-font-specification:Forum;letter-spacing:0px;word-spacing:0px;fill:#a2ad59;fill-opacity:1;stroke:none"
+       x="431.78769"
+       y="1672.5347"
+       id="text5223"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/ghitabizau/Desktop/Demis/Casoaia/Programul taberei - A3 - 1-1.png"><tspan
+         sodipodi:role="line"
+         id="tspan5225"
+         x="431.78769"
+         y="1672.5347"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Acme;-inkscape-font-specification:Acme;fill:#a2ad59;fill-opacity:1">Programul taberei</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4317"
+       y="4816.9507"
+       x="1431.9303"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.28267288px;line-height:125%;font-family:'Noticia Text';-inkscape-font-specification:Forum;letter-spacing:0px;word-spacing:0px;fill:#021e1e;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-xdpi="300.01428"
+       inkscape:export-ydpi="300.01428"
+       inkscape:export-filename="/home/ghitabizau/Desktop/Demis/Casoaia/Programul taberei - A3 - 1-1.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#021e1e;fill-opacity:1"
+         y="4816.9507"
+         x="1431.9303"
+         id="tspan4319"
+         sodipodi:role="line">Căsoaia, mai 2015</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#021e1e;fill-opacity:1"
+         y="4869.8042"
+         x="1431.9303"
+         sodipodi:role="line"
+         id="tspan4321">Conferința Banat</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#021e1e;fill-opacity:1"
+         y="4922.6572"
+         x="1431.9303"
+         sodipodi:role="line"
+         id="tspan4323">AZSMR</tspan></text>
+    <rect
+       y="-155.63066"
+       x="1996.6479"
+       height="25.714287"
+       width="434.63242"
+       id="rect4327"
+       style="fill:#8e936d;fill-opacity:1;opacity:0.5"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-xdpi="300.01428"
+       inkscape:export-ydpi="300.01428"
+       inkscape:export-filename="/home/ghitabizau/Desktop/Demis/Casoaia/Programul taberei - A3 - 1-1.png" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       style="fill:#177e89;fill-opacity:1;opacity:0.5"
+       id="rect4329"
+       width="1116.4854"
+       height="25.714287"
+       x="2536.6479"
+       y="-155.63066"
+       inkscape:export-xdpi="300.01428"
+       inkscape:export-ydpi="300.01428"
+       inkscape:export-filename="/home/ghitabizau/Desktop/Demis/Casoaia/Programul taberei - A3 - 1-1.png" />
+    <rect
+       y="-155.63066"
+       x="3756.6479"
+       height="25.714287"
+       width="821.33307"
+       id="rect4331"
+       style="fill:#a2ad59;fill-opacity:1;opacity:0.5"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-xdpi="300.01428"
+       inkscape:export-ydpi="300.01428"
+       inkscape:export-filename="/home/ghitabizau/Desktop/Demis/Casoaia/Programul taberei - A3 - 1-1.png" />
+    <path
+       id="path4378"
+       d="m 1240.5024,4945.281 26.2754,27.4512 21.4648,-20.543 19.6622,20.543 21.4648,-20.543 19.6621,20.543 21.4649,-20.543 19.6621,20.543 21.4629,-20.543 19.664,20.543 21.4629,-20.543 19.6641,20.543 21.4629,-20.543 19.664,20.543 21.4629,-20.543 19.6641,20.543 21.4629,-20.543 19.664,20.543 28.6797,-27.4512 -383.9707,0 z"
+       style="opacity:0.5;fill:#177e89;fill-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300.01428"
+       inkscape:export-ydpi="300.01428"
+       inkscape:export-filename="/home/ghitabizau/Desktop/Demis/Casoaia/Programul taberei - A3 - 1-1.png" />
+  </g>
+</svg>
